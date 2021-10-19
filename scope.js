@@ -4,7 +4,7 @@ function print(){
     function printName(){
         const age=22;
         console.log(name);
-        console.log(lastName);//not defined
+        console.log(lastName);//srivastav
     }
     printName();
 }
