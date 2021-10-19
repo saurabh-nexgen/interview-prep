@@ -4,4 +4,4 @@ var a=100;
 
 let b=101;
 console.log(this.a)//this points to global object and a is assigned memory in global object hence 100
-console.log(this.b)//since this points to global object but b is not assigned memory there we will get undefined
+console.log(this.b)//since this points to global object but b is not assigned memory in global scope there we will get undefined
