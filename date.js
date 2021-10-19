@@ -18,4 +18,4 @@ console.log(Date.parse("11/01/2021"));//1635705000000
 console.log(date2.getTime())//current time in miliseconds-1634115223100
 console.log(date2.getFullYear())//current year-2021
 console.log(date2.getDate())//todays date between 1 to 31  -13
-console.log(date2.getMonth())//from 0 to 11 so oct is 12 in this case
+console.log(date2.getMonth())//from 0 to 11 so oct is 9 in this case
