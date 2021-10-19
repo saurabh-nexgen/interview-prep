@@ -32,7 +32,7 @@ function clojureTimeOut() {
 6 after 5seconds
 */
 clojureTimeOut();
-//lets fix this and print 1 after 1 seconds 2 after 2seconds
+
 function clojureTimeOut2(){
     let i=1;
     while(i<=5){
@@ -44,7 +44,7 @@ function clojureTimeOut2(){
 
 }
 clojureTimeOut2();
-
+//lets fix this and print 1 after 1 seconds 2 after 2seconds
 function clojureTimeOut3(){
     for(let i=1;i<=5;i++){
         setTimeout(() => {
