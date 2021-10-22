@@ -1,6 +1,6 @@
 //----------------call--------------------
 
-//call method is used for method borrowing that is we want to use method on a object that is defined on another object then we can borrow that method from other object
+//call method is used for method borrowing that is if we want to use method on a object that is defined on another object then we can borrow that method from other object
 let player1={
     name:"Virat",
     lastName:"Kohli",
